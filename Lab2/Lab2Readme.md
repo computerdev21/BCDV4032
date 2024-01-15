@@ -13,3 +13,6 @@ Here are some screenshots from the application:
 4. ![Screenshot 4](./Screenshots/k4.png)
 5. ![Screenshot 5](./Screenshots/k5.png)
 6. ![Screenshot 6](./Screenshots/k6.png)
+
+Lab 3 Task 3 Quiz Answers
+[Quiz Answers PDF](./Quiz_answers.pdf)
