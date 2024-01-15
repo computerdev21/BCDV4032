@@ -5,19 +5,19 @@ app = Flask(__name__)
 
 # list of cat images
 images = [
-   "http://img.buzzfeed.com/buzzfeed-static/static/2013-10/enhanced/webdr05/15/9/anigif_enhanced-buzz-26388-1381844103-11.gif",
-    "http://img.buzzfeed.com/buzzfeed-static/static/2013-10/enhanced/webdr01/15/9/anigif_enhanced-buzz-31540-1381844535-8.gif",
-    "http://img.buzzfeed.com/buzzfeed-static/static/2013-10/enhanced/webdr05/15/9/anigif_enhanced-buzz-26390-1381844163-18.gif",
-    "http://img.buzzfeed.com/buzzfeed-static/static/2013-10/enhanced/webdr06/15/10/anigif_enhanced-buzz-1376-1381846217-0.gif",
-    "http://img.buzzfeed.com/buzzfeed-static/static/2013-10/enhanced/webdr03/15/9/anigif_enhanced-buzz-3391-1381844336-26.gif",
-    "http://img.buzzfeed.com/buzzfeed-static/static/2013-10/enhanced/webdr06/15/10/anigif_enhanced-buzz-29111-1381845968-0.gif",
-    "http://img.buzzfeed.com/buzzfeed-static/static/2013-10/enhanced/webdr03/15/9/anigif_enhanced-buzz-3409-1381844582-13.gif",
-    "http://img.buzzfeed.com/buzzfeed-static/static/2013-10/enhanced/webdr02/15/9/anigif_enhanced-buzz-19667-1381844937-10.gif",
-    "http://img.buzzfeed.com/buzzfeed-static/static/2013-10/enhanced/webdr05/15/9/anigif_enhanced-buzz-26358-1381845043-13.gif",
-    "http://img.buzzfeed.com/buzzfeed-static/static/2013-10/enhanced/webdr06/15/9/anigif_enhanced-buzz-18774-1381844645-6.gif",
-    "http://img.buzzfeed.com/buzzfeed-static/static/2013-10/enhanced/webdr06/15/9/anigif_enhanced-buzz-25158-1381844793-0.gif",
-    "http://img.buzzfeed.com/buzzfeed-static/static/2013-10/enhanced/webdr03/15/10/anigif_enhanced-buzz-11980-1381846269-1.gif"
-    ]
+            "https://media1.tenor.com/m/fAKIFrYkfpAAAAAd/sad-sad-cat.gif",
+             "https://media.tenor.com/pFz1Q12_hXEAAAAM/cat-holding-head-cat.gif",
+             "https://media.tenor.com/47qpxBq_Tw0AAAAM/cat-cat-meme.gif",
+             "https://media.tenor.com/7t63GFnoIPUAAAAM/huh-cat-huh-m4rtin.gif",
+             "https://media.tenor.com/Wyjcf1uN1AoAAAAM/cat-zoning-out-cat-stare.gif",
+             "https://media.tenor.com/nqBUintQUbEAAAAM/cat.gif",
+             "https://media.tenor.com/Jc9jT66AJRwAAAAM/chipi-chipi-chapa-chapa.gif",
+             "https://media.tenor.com/7n0hNpCqS3kAAAAM/cat-driving-car.gif",
+             "https://media.tenor.com/VfNHIfcyAIMAAAAM/watch-a-fat-cat-dance-an-american-dance-girlfriend.gif",
+             "https://media.tenor.com/NQfq1liFH-8AAAAM/byuntear-sad.gif",
+             "https://media.tenor.com/kRlG2TkDrBoAAAAM/cat-cat-meme.gif",
+             "https://media.tenor.com/jmdUY9TVm5IAAAAM/cat-the-voices.gif"
+             ]
 
 @app.route('/')
 def index():
