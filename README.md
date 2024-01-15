@@ -1,2 +1,1 @@
-# BCDV4032
-# BCDV4032
+Please Refer to Lab1Readme.md and Lab2Readme.md for Screenshots
