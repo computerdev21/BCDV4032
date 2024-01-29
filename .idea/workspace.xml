@@ -5,33 +5,94 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1fe82313-cfdf-4512-a94c-2de929f765cb" name="Changes" comment="Changes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/Explainations.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Explainations.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc1.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc10.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc11.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc12.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc13.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc14.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc14.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc15.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc15.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc16.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc17.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc17.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc18.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc18.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc19.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc19.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc2.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc21.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc22.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc23.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc24.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc24.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc25.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc25.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc26.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc26.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc3.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc4.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc5.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc6.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc7.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc8.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc9.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/hi/hi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Explainations.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Lab4Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/.dockerignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/.github/FUNDING.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/.idea/docker-ethereum.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/Dockerfile.ganache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/client/.dockerignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/client/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/client/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/client/Dockerfile.react.prod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/client/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/client/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/client/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/client/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/client/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/client/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/client/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/client/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/client/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/client/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/client/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/client/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/client/src/message.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/client/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/ethereum/build/Message.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/ethereum/compile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/ethereum/contracts/Message.sol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/ethereum/deploy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/ethereum/logic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/ethereum/receipt-ganache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/ethereum/web3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/kubernities_yaml/dapp-deployment.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/kubernities_yaml/dapp-hpa.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/kubernities_yaml/dapp-service.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/kubernities_yaml/ganache-deployment.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/kubernities_yaml/ganache-service.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/kubernities_yaml/mongodb-data-persistentvolumeclaim.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/kubernities_yaml/mongodb-deployment.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/kubernities_yaml/mongodb-secret.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/kubernities_yaml/mongodb-service.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/kubernities_yaml/mongodb-stateful-set.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/kubernities_yaml/react-deployment.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/kubernities_yaml/react-hpa.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/kubernities_yaml/react-service.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/kubernities_yaml/roles.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/kubernities_yaml/storage.pvc.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/server/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/server/models/transaction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/server/routes/contract-API.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/server/routes/smart-contract-API.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +118,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Cherry-picking in feature/test",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/dev/College/BCDV4032/lab4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
