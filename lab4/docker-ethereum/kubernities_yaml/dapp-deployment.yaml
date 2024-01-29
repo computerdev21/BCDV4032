@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  annotations:
+    kompose.cmd: kompose convert -f docker-compose.yml
+    kompose.version: 1.32.0 (765fde254)
+  labels:
+    io.kompose.service: dapp
+  name: dapp
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      io.kompose.service: dapp
+  template:
+    metadata:
+      annotations:
+        kompose.cmd: kompose convert -f docker-compose.yml
+        kompose.version: 1.32.0 (765fde254)
+      labels:
+        io.kompose.network/docker-ethereum-default: "true"
+        io.kompose.service: dapp
+    spec:
+      containers:
+        - image: devchetal/dock_eth_gan:v2
+          name: dapp
+          ports:
+            - containerPort: 4000
+              hostPort: 4000
+              protocol: TCP
+      restartPolicy: Always
