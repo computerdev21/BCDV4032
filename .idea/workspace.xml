@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="1fe82313-cfdf-4512-a94c-2de929f765cb" name="Changes" comment="Changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Lab4Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Lab4Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/kubernities_yaml/dapp-deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/docker-ethereum/kubernities_yaml/dapp-deployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/kubernities_yaml/ganache-deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/docker-ethereum/kubernities_yaml/ganache-deployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/docker-ethereum/kubernities_yaml/react-deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/docker-ethereum/kubernities_yaml/react-deployment.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,26 +31,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/dev/College/BCDV4032&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/dev/College/BCDV4032/lab4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lab4" />
+      <recent name="$PROJECT_DIR$/Lab2/docker-ethereum/kubernities_yaml" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Lab2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lab2/docker-ethereum/kubernities_yaml" />
       <recent name="$PROJECT_DIR$/Lab2" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Lab1" />
@@ -62,7 +68,13 @@
       <option name="presentableId" value="Default" />
       <updated>1705290427313</updated>
       <workItem from="1705290428368" duration="1936000" />
-      <workItem from="1705879006098" duration="348000" />
+      <workItem from="1705879006098" duration="698000" />
+      <workItem from="1706030430550" duration="31000" />
+      <workItem from="1706314071532" duration="1198000" />
+      <workItem from="1706390801327" duration="1161000" />
+      <workItem from="1706469707507" duration="14037000" />
+      <workItem from="1706485729330" duration="10688000" />
+      <workItem from="1706501361659" duration="7262000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <option name="closed" value="true" />
