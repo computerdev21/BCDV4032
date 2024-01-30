@@ -4,7 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fe82313-cfdf-4512-a94c-2de929f765cb" name="Changes" comment="Changes" />
+    <list default="true" id="1fe82313-cfdf-4512-a94c-2de929f765cb" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Explainations.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Explainations.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc1.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc10.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc11.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc12.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc13.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc14.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc15.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc16.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc17.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc18.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc19.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc19.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc2.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc21.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc21.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc22.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc22.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc23.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc23.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc24.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc24.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc25.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc25.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc26.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc26.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc3.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc4.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc5.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc6.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc7.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc8.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/Screenshots/l4sc9.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/Screenshots/l4sc9.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,8 +57,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/dev/College/BCDV4032",
+    "git-widget-placeholder": "Cherry-picking in feature/test",
+    "last_opened_file_path": "/Users/dev/College/BCDV4032/lab4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -41,6 +69,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lab4" />
+      <recent name="$PROJECT_DIR$/Lab2/docker-ethereum/kubernities_yaml" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/lab4" />
       <recent name="$PROJECT_DIR$/Lab2/docker-ethereum/kubernities_yaml" />
@@ -68,7 +98,7 @@
       <workItem from="1706390801327" duration="1161000" />
       <workItem from="1706469707507" duration="14037000" />
       <workItem from="1706485729330" duration="10688000" />
-      <workItem from="1706501361659" duration="8197000" />
+      <workItem from="1706501361659" duration="7262000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <option name="closed" value="true" />
