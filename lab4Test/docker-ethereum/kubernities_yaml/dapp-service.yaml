@@ -1,0 +1,17 @@
+apiVersion: v1
+kind: Service
+metadata:
+  annotations:
+    kompose.cmd: kompose convert -f docker-compose.yml
+    kompose.version: 1.32.0 (765fde254)
+  name: dapp-service
+  labels:
+    io.kompose.service: dapp
+spec:
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 4000
+  selector:
+    io.kompose.service: dapp
+  type: LoadBalancer
